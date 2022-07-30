@@ -11,4 +11,8 @@ public class Main {
 	    // 4 changes from github
 	    //5 changes from github
     }
+
+    public void nik() {
+        //My changes
+    }
 }
