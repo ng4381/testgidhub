@@ -15,6 +15,6 @@ public class Main {
     public void nik() {
         //My changes
         //My changes - 2
-	    //Changes from github
+	    //Changes
     }
 }
